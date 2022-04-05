@@ -1,0 +1,10 @@
+{
+    "Settings": {
+    "Webhook_Login": "Link",
+    "Webhook_Register": "Link",
+    "Webhook_Extend": "Link",
+	"Webhook_Try_Crack": "Link",
+	"Webhook_Logs": "Link",
+	"Discord_Invites": "discord.gg/Bluex"
+      }
+}
