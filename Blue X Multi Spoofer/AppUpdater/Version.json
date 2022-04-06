@@ -1,7 +1,7 @@
 {
     "Update": {
     "Version": "1.0.0.0",
-    "News": "Path Note Here",
-    "LastUpdate": "Link"
+    "Patch_Note": "Path Note Here",
+    "Update_Link": "Link"
       }
 }
