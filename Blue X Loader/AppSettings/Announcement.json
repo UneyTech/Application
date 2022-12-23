@@ -1,6 +1,6 @@
 {
   "Announcement": {
-        "Announcement_TXT": "Update 1.0.0.0 has been successfully deployed \n Update 1.2.0.0 Available Soon in Progress",
+        "Announcement_TXT": "Update 1.2.0.0 Available Soon in Progress",
 	"Alert_Discord": "The Discord server has suffered a problem please join the new one",
 	"Alert_API": "The API is having problems please wait a few hours",
 	"Alert_Website": "The Website is having problems, please wait.."
